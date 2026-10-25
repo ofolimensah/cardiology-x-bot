@@ -1,0 +1,31 @@
+{
+  "primary": [
+    "myocardial infarction",
+    "heart failure",
+    "atrial fibrillation",
+    "coronary artery disease",
+    "TAVR",
+    "transcatheter aortic valve replacement",
+    "percutaneous coronary intervention",
+    "acute coronary syndrome",
+    "cardiomyopathy",
+    "sudden cardiac death"
+  ],
+  "drugs": [
+    "empagliflozin",
+    "dapagliflozin",
+    "sacubitril valsartan",
+    "PCSK9 inhibitor",
+    "GLP-1 receptor agonist cardiovascular"
+  ],
+  "topics": [
+    "cardio-oncology",
+    "cardiac amyloidosis",
+    "pulmonary hypertension",
+    "valvular heart disease",
+    "heart failure with preserved ejection fraction",
+    "artificial intelligence cardiology diagnosis"
+  ],
+  "engagement_scores": {},
+  "last_updated": null
+}
