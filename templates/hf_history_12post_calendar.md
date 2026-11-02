@@ -8,7 +8,8 @@ Cadence: 3 posts/week (Mon/Wed/Fri). Mix: one-liners for most, threads for posts
 
 | Post | Day | Date | Time (ET) | Format |
 |------|-----|------|-----------|--------|
-| 1 | Mon | Nov 2 | 6:00 AM | One-liner |
+| 1a | Mon | Nov 2 | 6:00 AM | One-liner (series intro) |
+| 1b | Mon | Nov 2 | 6:30 AM | One-liner (foxglove/digitalis) |
 | 2 | Wed | Nov 4 | 8:00 PM | One-liner |
 | 3 | Fri | Nov 6 | 6:00 AM | Thread |
 | 4 | Mon | Nov 9 | 8:00 PM | One-liner |
@@ -21,12 +22,19 @@ Cadence: 3 posts/week (Mon/Wed/Fri). Mix: one-liners for most, threads for posts
 | 11 | Wed | Nov 25 | 6:00 AM | One-liner |
 | 12 | Fri | Nov 27 | 8:00 PM | Thread (finale) |
 
-Alternating morning/evening slots: 6 AM ET on Mon/Fri, 8 PM ET on Wed. This keeps the series from feeling robotic and hits both clinician scroll windows.
+Alternating morning/evening slots: 6 AM ET on Mon/Fri, 8 PM ET on Wed. Posts 1a and 1b are 30 minutes apart on day one. This keeps the series from feeling robotic and hits both clinician scroll windows.
 
 ---
 
-## Post 1 — The Symptomatic Era (1785) — Mon Nov 2, 6 AM ET
+## Post 1a — Series Intro — Mon Nov 2, 6:00 AM ET
+One-liner. Sets up the month-long arc.
+
+> Over the next month, I'll walk through the trials that built modern heart failure care — from digitalis in 1785 to the four-pillar stack we use today. Each post covers one era: the trial, why it mattered, and how it changed what we prescribe. No jargon without translation. If you treat heart failure patients, this is the story of why your guidelines look the way they do.
+
+## Post 1b — The Symptomatic Era (1785) — Mon Nov 2, 6:30 AM ET
 One-liner. Digitalis: Withering's foxglove. Purely symptomatic relief, zero mortality data, 200+ years of use before anyone asked the right question.
+
+> 1785. William Withering, a physician in Birmingham, publishes "An Account of the Foxglove." A patient with dropsy had been cured by a herbal remedy from a folk healer — Withering isolated the active plant, digitalis, and documented its effects across 160+ cases. Symptomatic relief only. No control group, no mortality endpoint. It would take two centuries before a randomized trial asked the question that mattered.
 
 Hook: "The first heart failure drug was discovered by a country doctor watching a woman cure dropsy with herbal tea."
 
@@ -90,6 +98,7 @@ Thread beats: (1) the stack visualized, (2) the stacking principle as the series
 ## Posting Notes
 
 - Alternating morning (6 AM ET) and evening (8 PM ET) slots across the 12 posts.
+- Posts 1a and 1b are 30 minutes apart on Nov 2.
 - Posts 3, 6, 12 are threads; the rest are one-liners with a DOI link.
 - After post 6, watch engagement — if the flip thread outperforms, consider expanding posts 9–11 into threads too.
 - The learn.py module should score this series separately from routine posts so the narrative arc doesn't distort keyword learning.
